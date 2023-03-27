@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">A passionate newly formed full stack dev from Montreal</h3>
 
-- 🌱 I’m currently expanding my knowledge in **Javascript**
+- 🌱 I’m currently expanding my knowledge in **React.js**
 
 - 📫 How to reach me **richarddfyoung@gmail.com**
 
