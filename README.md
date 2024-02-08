@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **richarddfyoung@gmail.com**
 
-- ⚡ Fun fact **I have over 100 houseplants**
+- ⚡ Check out my portfolio at **<a href="richardyoungdev.com">richardyoungdev.com</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
