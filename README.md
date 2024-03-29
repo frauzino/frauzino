@@ -13,7 +13,7 @@
 <a href="https://instagram.com/bdrfrauzino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bdrfrauzino" height="30" width="40" /></a>
 </p>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=frauzino&show_icons=true&theme=ayu-mirage&show=prs_merged)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=frauzino&show_icons=true&theme=ayu-mirage&show=prs_merged&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frauzino&theme=ayu-mirage)](https://github.com/frauzino/github-readme-stats)
 
