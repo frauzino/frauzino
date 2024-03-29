@@ -7,9 +7,11 @@
 
 - I'm currently working on **<a href="https://www.overwise-gg.com"/>Overwise</a>, an online tool for Overwatch players to track their performance.**
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=frauzino&show_icons=true&theme=ayu-mirage&show=prs_merged&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+<div display="flex" justify-content="space-between">
+  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=frauzino&show_icons=true&theme=ayu-mirage&show=prs_merged&rank_icon=github)(https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frauzino&theme=ayu-mirage)](https://github.com/frauzino/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frauzino&theme=ayu-mirage)](https://github.com/frauzino/github-readme-stats)
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
