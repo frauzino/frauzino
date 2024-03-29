@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
-<h3 align="center">A passionate newly formed full stack dev from Montreal</h3>
+<h3 align="center">A full stack developr in Montréal.</h3>
 
-- 🌱 I’m currently expanding my knowledge in **React.js**
+- Reach out to me at: **richarddfyoung@gmail.com**
 
-- 📫 How to reach me **richarddfyoung@gmail.com**
+- Check out my portfolio at: **<a href="richardyoungdev.com">richardyoungdev.com</a>**
 
-- ⚡ Check out my portfolio at **<a href="richardyoungdev.com">richardyoungdev.com</a>**
+- I'm currently working on **<a href="https://www.overwise-gg.com"/>Overwise</a>, an online tool for Overwatch players to track their performance.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
