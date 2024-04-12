@@ -5,7 +5,7 @@ I'm a full stack developer with a background in fine dining and pastry. I approa
 
 - Reach out to me at: **richarddfyoung@gmail.com**
 
-- Check out my portfolio at: **<a href="richardyoungdev.com">richardyoungdev.com</a>**
+- Check out my portfolio at: **<a href="[(http://richardyoungdev.com/)">richardyoungdev.com</a>**
 
 - I'm currently working on **<a href="https://www.overwise-gg.com"/>Overwise</a>, an online tool for Overwatch players to track their performance.**
 
