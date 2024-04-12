@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richard Young</h1>
-<h3 align="center">A full stack developr in Montréal.</h3>
+<h3 align="center">A full stack developer in Montréal.</h3>
+
+I'm a full stack developer with a background in fine dining and pastry. I approach any project with enthusiasm and an eye for detail. I pride myself on writing clear, maintainable code using modular components, primarily in Ruby on Rails and React.js. I appreciate taking on new, creative challenges where I can learn and continue to grow as a developer.
 
 - Reach out to me at: **richarddfyoung@gmail.com**
 
